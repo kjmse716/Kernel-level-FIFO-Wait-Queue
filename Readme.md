@@ -1,15 +1,13 @@
 # <font color = "orange">Intro</font>
-<font size = 4>**2024 Fall NCU Linux OS Project 2**</font>
 * Implement a custom wait queue-like functionality in kernel space. Allowing user applications to operate through the system call.
 * Add a thread to the wait queue to wait. Remove threads from the wait queue, allowing them exit in **FIFO** order
 
 ```
-113522008 陳國誌 gary7102
-113522006 李秉睿
-113522053 蔡尚融 kjmse716 
+kjmse716 
+gary7102
 ```
 
-**Link :**  [Project_2](https://github.com/kjmse716/NCU-Linux-OS-2024-LAB2/blob/main/Project_2.pdf) , [github](https://github.com/kjmse716/NCU-Linux-OS-2024-LAB2/tree/main) , [hackmd](https://hackmd.io/@kjmse716/r1M-pcJIye)
+**Link :** [github](https://github.com/kjmse716/NCU-Linux-OS-2024-LAB2/tree/main) , [hackmd](https://hackmd.io/@kjmse716/r1M-pcJIye)
 
 
 <font size = 4>**Environment**</font>
